@@ -3,6 +3,7 @@ I am an aeronautical engineer.
 
 # Research
 I am interested in:
+- aerodynamics
 - dynamical systems
 - aeroservoelasticity
 - flight dynamics and control
